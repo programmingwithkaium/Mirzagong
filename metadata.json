@@ -1,0 +1,6 @@
+{
+  "name": "বাংলারহাট নিউজ (Banglarhat News)",
+  "description": "বাংলাদেশের আধুনিক ও বস্তুনিষ্ঠ ডিজিটাল সংবাদ পোর্টাল — জাতীয়, রাজনীতি, অর্থনীতি, আন্তর্জাতিক, প্রযুক্তি, খেলাধুলা ও সংস্কৃতির নির্ভরযোগ্য সংবাদ ও বিশ্লেষণ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

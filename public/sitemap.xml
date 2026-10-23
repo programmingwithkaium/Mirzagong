@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://newsmirzaganj.example.com/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://newsmirzaganj.example.com/?view=category&amp;category=mirzaganj</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://newsmirzaganj.example.com/?view=category&amp;category=national</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://newsmirzaganj.example.com/?view=category&amp;category=economy</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://newsmirzaganj.example.com/?article=mirzaganj-payra-river-embankment-trending-demo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>নিউজ মির্জাগঞ্জ (News Mirzaganj Demo)</news:name>
+        <news:language>bn</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:00:00+06:00</news:publication_date>
+      <news:title>[ডেমো প্রতিবেদন] মির্জাগঞ্জে পায়রা ও শ্রীমন্ত নদীর তীর রক্ষা বাঁধ এবং সুবিদখালী খাল সংস্কারে সমন্বিত উদ্যোগ</news:title>
+    </news:news>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+</urlset>
